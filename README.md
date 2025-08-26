@@ -25,11 +25,8 @@ Durante le sessioni di laboratorio ho utilizzato diversi tool, tra cui:
 
 ## 📑 Progetti e documentazione
 Nei repository collegati troverai:
-- Report di scansioni (`nmap`)
-- Log di analisi con **Wireshark**  
-- Esempi di exploit eseguiti in ambiente sicuro  
-- Note tecniche e checklist operative
-
+(Per motivi di sicurezza e riservatezza non sono inclusi output completi di scansioni o indirizzi IP.
+Sono invece documentati i metodi, i tool utilizzati e le best practice apprese durante i test.)
 
 ⚠️ **Nota etica**  
 Tutte le attività sono state svolte **esclusivamente in ambiente controllato e legale**, senza alcun accesso non autorizzato a sistemi reali.  
