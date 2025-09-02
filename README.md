@@ -24,7 +24,6 @@ Durante le sessioni di laboratorio ho utilizzato diversi tool, tra cui:
 - Migliorare le competenze pratiche per il ruolo di **SOC Analyst / Penetration Tester**
 
 ## 📑 Progetti e documentazione
-Nei repository collegati troverai:
 (Per motivi di sicurezza e riservatezza non sono inclusi output completi di scansioni o indirizzi IP.
 Sono invece documentati i metodi, i tool utilizzati e le best practice apprese durante i test.)
 
